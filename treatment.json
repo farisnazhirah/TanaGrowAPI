@@ -1,0 +1,8 @@
+[
+    {"nama": "Kaktus", "namaLatin": "Cactaceae", "imageId": "angsa"},
+    {"nama": "Lidah Buaya", "namaLatin": "Gallus gallus", "imageId": "ayam"},
+    {"nama": "Mawar", "namaLatin": "", "imageId": "bebek"},
+    {"nama": "Lidah Mertua", "namaLatin": "Sansevieria", "imageId": "domba"},
+    {"nama": "Kuping Gajah", "namaLatin": "Anthurium Chrystalinum", "imageId": "kalkun"},
+    {"nama": "Janda Bolong", "namaLatin": "Monstera adansonii", "imageId": "kambing"}
+]
