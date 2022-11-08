@@ -1,8 +1,8 @@
 [
-    {"nama": "Kaktus", "namaLatin": "Cactaceae", "imageId": "angsa"},
-    {"nama": "Lidah Buaya", "namaLatin": "Gallus gallus", "imageId": "ayam"},
-    {"nama": "Mawar", "namaLatin": "", "imageId": "bebek"},
-    {"nama": "Lidah Mertua", "namaLatin": "Sansevieria", "imageId": "domba"},
-    {"nama": "Kuping Gajah", "namaLatin": "Anthurium Chrystalinum", "imageId": "kalkun"},
-    {"nama": "Janda Bolong", "namaLatin": "Monstera adansonii", "imageId": "kambing"}
+    {"nama": "Kaktus", "namaLatin": "Cactaceae", "imageId": "kakrus"},
+    {"nama": "Lidah Buaya", "namaLatin": "Gallus gallus", "imageId": "buaya"},
+    {"nama": "Mawar Merah", "namaLatin": "Rosa", "imageId": "mawar"},
+    {"nama": "Lidah Mertua", "namaLatin": "Sansevieria", "imageId": "mertua"},
+    {"nama": "Kuping Gajah", "namaLatin": "Anthurium Chrystalinum", "imageId": "kuping"},
+    {"nama": "Janda Bolong", "namaLatin": "Monstera adansonii", "imageId": "janda"}
 ]
