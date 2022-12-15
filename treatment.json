@@ -1,8 +1,6 @@
 [
     {
         "nama": "Kaktus", "namaLatin": "Cactaceae", "imageId": "kaktus"
-        "perawatan": "Perawatan"
-        "desc": "Berikan Pencahayaan yang Cukup.\nSaat musim kemarau, maka kamu harus lebih sering menyiramnya.\nSaat musim hujan pastikan tidak memberikan kaktus terlalu banyak air karena bisa membuat batangnya membusuk."
     },
     {
         "nama": "Lidah Buaya", "namaLatin": "Gallus gallus", "imageId": "buaya"
