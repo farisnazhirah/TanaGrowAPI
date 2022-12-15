@@ -1,8 +1,22 @@
 [
-    {"nama": "Kaktus", "namaLatin": "Cactaceae", "imageId": "kaktus"},
-    {"nama": "Lidah Buaya", "namaLatin": "Gallus gallus", "imageId": "buaya"},
-    {"nama": "Mawar Merah", "namaLatin": "Rosa", "imageId": "mawar"},
-    {"nama": "Lidah Mertua", "namaLatin": "Sansevieria", "imageId": "mertua"},
-    {"nama": "Kuping Gajah", "namaLatin": "Anthurium Chrystalinum", "imageId": "kuping"},
-    {"nama": "Janda Bolong", "namaLatin": "Monstera adansonii", "imageId": "janda"}
+    {
+        "nama": "Kaktus", "namaLatin": "Cactaceae", "imageId": "kaktus"
+        "perawatan": "Perawatan"
+        "desc": "Berikan Pencahayaan yang Cukup.\nSaat musim kemarau, maka kamu harus lebih sering menyiramnya.\nSaat musim hujan pastikan tidak memberikan kaktus terlalu banyak air karena bisa membuat batangnya membusuk."
+    },
+    {
+        "nama": "Lidah Buaya", "namaLatin": "Gallus gallus", "imageId": "buaya"
+    },
+    {
+        "nama": "Mawar Merah", "namaLatin": "Rosa", "imageId": "mawar"
+    },
+    {
+        "nama": "Lidah Mertua", "namaLatin": "Sansevieria", "imageId": "mertua"
+    },
+    {
+        "nama": "Kuping Gajah", "namaLatin": "Anthurium Chrystalinum", "imageId": "kuping"
+    },
+    {
+        "nama": "Janda Bolong", "namaLatin": "Monstera adansonii", "imageId": "janda"
+    }
 ]
